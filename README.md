@@ -13,7 +13,7 @@ An interactive **machine learning web app** that predicts **health insurance pre
 ---
 
 ## 🚀 Live Demo
-👉 [**Click here to try the app**](https://health-insaurance-predcitor.streamlit.app/)  
+👉 **LINK:** (https://health-insaurance-predcitor.streamlit.app/)  
 
 ---
 
@@ -81,5 +81,6 @@ For questions or feedback:
 - Reach out via GitHub: (https://github.com/Sharanch3)  
 
 ---
+
 
 
