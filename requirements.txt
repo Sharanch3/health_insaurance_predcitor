@@ -1,0 +1,11 @@
+streamlit
+
+ipykernel
+openpyxl
+statsmodels
+joblib
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
