@@ -77,7 +77,7 @@ input_dict = {
 
 
 # Button to make prediction
-if st.button('Predict'):
+if st.button('Predict', type= "primary"):
     st.divider()
     with st.spinner("Making Prediction... it may take a while"):
         prediction = predict(input_dict)
